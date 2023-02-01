@@ -19,5 +19,6 @@ El proyecto se dividió en dos partes:</br>
 
 La primera consistió en la liempieza y trasformación de los datos para su posterior analisis.</br>
 
-Para la segunda parte definí un KPI para la conversión de clientes y otro para mejorar la satisfacción.</br>
+Para la segunda parte definí un KPI para la conversión de clientes y otro para mejorar la satisfacción. Luego, ya con esas preguntas, arme mi dashboard con los datos mas relevantes.</br>
 
+[DASHBOARD](https://drive.google.com/drive/folders/12kDkncwCAwZx0RSRHHU6yzovhwJuE6-s?usp=share_link)
