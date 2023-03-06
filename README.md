@@ -2,23 +2,18 @@
 
 ## Descripción
 
-- ¿Por qué desarrollé este proyecto? </br>
-Una startup de tecnología está interesada en sumarse al mercado de cursos online, pero de una manera eficiente, por lo que compró datasets de posibles competidores para analizar y sacar conclusiones de los datos recolectados.
+En este proyecto se analizaron datos de posibles competidores en el mercado de cursos online. La startup de tecnología quería obtener información valiosa a partir de estos datos para sumarse al mercado de cursos online de manera eficiente. El proyecto se dividió en dos partes: la primera consistió en la limpieza y transformación de los datos para su posterior análisis, mientras que la segunda parte se enfocó en definir KPIs y crear un dashboard con los datos más relevantes.
 
-- ¿Qué problema resuelve? </br>
-A traves del dashboard podremos ver como fue variando el rating de los cursos de coursera durante 5 años. Tambien vemos como los cursos sobre programación son cada vez mas demandados y que el nivel de dificultad con más alumnos es el introductorio o principiante.
+## Problema a resolver
 
-- ¿Qué aprendí? </br>
-Aprendí a diferenciar mejor una métrica de un KPI, a crear visualizaciones de una forma minimalista y simple y también a aplicar técnicas estadísticas para extraer información valiosa de los datos. Si bien no siempre el resultado es el esperado no significa que no haya progresado.
+La startup de tecnología necesitaba analizar los datasets de posibles competidores para obtener información valiosa que les permita ingresar al mercado de cursos online de manera eficiente. A través del dashboard, se buscó analizar cómo ha variado el rating de los cursos de coursera durante 5 años y cómo la demanda de cursos de programación ha ido aumentando, así como también el nivel de dificultad más demandado en estos cursos.
 
+## Aprendizajes obtenidos
 
+Durante el desarrollo del proyecto, se aprendió a diferenciar entre una métrica y un KPI, así como también a crear visualizaciones de manera simple y minimalista, utilizando técnicas estadísticas para extraer información valiosa de los datos. El proyecto permitió obtener aprendizajes valiosos, incluso cuando los resultados no siempre fueron los esperados.
 
 ## Desarrollo
 
-El proyecto se dividió en dos partes:</br>
-
-La primera consistió en la liempieza y trasformación de los datos para su posterior analisis.</br>
-
-Para la segunda parte definí un KPI para la conversión de clientes y otro para mejorar la satisfacción. Luego, ya con esas preguntas, arme mi dashboard con los datos mas relevantes.</br>
+El proyecto se dividió en dos partes: en la primera se realizó la limpieza y transformación de los datos para su posterior análisis. En la segunda parte, se definieron KPIs para la conversión de clientes y la satisfacción del usuario, y se creó un dashboard con los datos más relevantes. Los resultados obtenidos permitieron a la startup de tecnología obtener información valiosa para su ingreso al mercado de cursos online.
 
 [DASHBOARD](https://drive.google.com/drive/folders/12kDkncwCAwZx0RSRHHU6yzovhwJuE6-s?usp=share_link)
